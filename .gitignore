@@ -1,4 +1,3 @@
-# openairinterface5g is registered as a git submodule
-# in the parent workspace (OAI_STANDARD_SETUP/.gitmodules)
-# It should not be tracked by this repo.
-openairinterface5g/
+# openairinterface5g is registered as a git submodule of this repo.
+# The actual clone is kept locally; only the commit reference is tracked.
+

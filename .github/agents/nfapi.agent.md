@@ -1,0 +1,1 @@
+../skills/oai-ran-splits/nfapi.agent.md

@@ -1,0 +1,1 @@
+../skills/oai-ran-layers/ngap-nas.agent.md

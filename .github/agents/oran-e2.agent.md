@@ -1,0 +1,1 @@
+../skills/oai-ran-splits/oran-e2.agent.md

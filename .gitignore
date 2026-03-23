@@ -1,0 +1,4 @@
+# openairinterface5g is registered as a git submodule
+# in the parent workspace (OAI_STANDARD_SETUP/.gitmodules)
+# It should not be tracked by this repo.
+openairinterface5g/
